@@ -14,7 +14,7 @@ Install the "Desktop development with C++".
 
 Download the [latest release](https://github.com/okkdev/aseprite-compile-helper/releases/latest).
 
-Run the `aseprite-compile-helper.bat`.
+Run the `aseprite-compiler.bat`.
 
 ## Adding dependencies
 
